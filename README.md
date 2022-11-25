@@ -5,7 +5,7 @@
 - 🎓 &nbsp; I'm currently a junior Computer Science student at Stony Brook university, SUNY Korea.
 - 🌱 &nbsp; I'm interested in Software Engineering, Blockchain Development and Object-Oriented Programming.
 - ✍️ &nbsp; I'm currently studying Computer Networks, Database and System Management, AI and Mcahine Learning, and Analysis of Algorithm.
-- 💻 &nbsp; I'm currently working at CAIMI Co.,Ltd as a Software Engineer.
+<!-- - 💻 &nbsp; I'm currently working at CAIMI Co.,Ltd as a Software Engineer. -->
 - 🌐 &nbsp; My resume: https://docs.google.com/document/d/1G24KbYgoiOelzUn1YupPxp8zp4vFK10zdq_bQcRICLE/edit?usp=sharing
 
 <!---<h3> 🛠 &nbsp;Tech Stack</h3>
