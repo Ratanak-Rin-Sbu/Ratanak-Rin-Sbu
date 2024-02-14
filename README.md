@@ -2,12 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I'm currently a junior Computer Science student at Stony Brook university, SUNY Korea.
+- 🎓 &nbsp; I'm currently a senior Computer Science student at Stony Brook University.
 - 🌱 &nbsp; I'm interested in Software Engineering, Blockchain Development and Object-Oriented Programming.
-- ✍️ &nbsp; I'm currently studying Computer Networks, Database and System Management, AI and Mcahine Learning, and Analysis of Algorithm.
-<!-- - 💻 &nbsp; I'm currently working at CAIMI Co.,Ltd as a Software Engineer. -->
-- 🌐 &nbsp; My resume: https://docs.google.com/document/d/1G24KbYgoiOelzUn1YupPxp8zp4vFK10zdq_bQcRICLE/edit?usp=sharing
-
+- 🌐 &nbsp; My resume: https://docs.google.com/document/d/14asmOqFnVFEBw3loZMjDNYJx6y9nlqEaHTNKm3c5qww/edit?usp=sharing
 <!---<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -50,7 +47,7 @@
 
 <p align="center">
 <!---<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>--->
-<a href="https://www.linkedin.com/in/ratanak-rin-5674b0227/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ratanak%20Rin-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ratanakrin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ratanak%20Rin-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/rotanak_rin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ratanakrin-blue?style=flat-square&logo=instagram"></a>
 <img alt="Email" src="https://img.shields.io/badge/Email-ratanak.rin@stonybrook.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
