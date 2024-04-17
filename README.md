@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; I'm currently a senior Computer Science student at Stony Brook University.
-- 🌱 &nbsp; I'm interested in Software Engineering, Blockchain Development and Object-Oriented Programming.
+- 🌱 &nbsp; I'm interested in Software Engineering, and Object-Oriented Programming.
 - 🌐 &nbsp; My resume: https://docs.google.com/document/d/14asmOqFnVFEBw3loZMjDNYJx6y9nlqEaHTNKm3c5qww/edit?usp=sharing
 <!---<h3> 🛠 &nbsp;Tech Stack</h3>
 
