@@ -2,8 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I'm currently a senior Computer Science student at Stony Brook University.
-- 🌱 &nbsp; I'm interested in Software Engineering, and Object-Oriented Programming.
+- 🎓 &nbsp; I graduated with a Bachelor Degree in Computer Science w/ Specialization in AI & Data Sciences from Stony Brook University.
+- 🌱 &nbsp; I'm interested in Software Engineering, System Architecture, Automating and Object-Oriented Programming.
+- 🏡 &nbsp; I'm currently living in Stony Brook, NY.
 - 🌐 &nbsp; My resume: https://docs.google.com/document/d/14asmOqFnVFEBw3loZMjDNYJx6y9nlqEaHTNKm3c5qww/edit?usp=sharing
 <!---<h3> 🛠 &nbsp;Tech Stack</h3>
 
