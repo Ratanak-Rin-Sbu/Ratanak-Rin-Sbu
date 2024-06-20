@@ -5,7 +5,7 @@
 - 🎓 &nbsp; I graduated with a Bachelor Degree in Computer Science w/ Specialization in AI & Data Sciences from Stony Brook University.
 - 🌱 &nbsp; I'm interested in Software Engineering, System Architecture, Automating and Object-Oriented Programming.
 - 🏡 &nbsp; I'm currently living in Stony Brook, NY.
-- 🌐 &nbsp; My resume: https://docs.google.com/document/d/14asmOqFnVFEBw3loZMjDNYJx6y9nlqEaHTNKm3c5qww/edit?usp=sharing
+- 📄 &nbsp; <a href="./pdfs/Ratanak_Rin_Resume.pdf">My Resume</a>
 <!---<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
