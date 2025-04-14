@@ -51,7 +51,7 @@
 <!---<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>--->
 <a href="https://www.linkedin.com/in/ratanakrin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ratanak%20Rin-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/rotanak_rin/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ratanakrin-blue?style=flat-square&logo=instagram"></a>
-<img alt="Email" src="https://img.shields.io/badge/Email-ratanak.rin@stonybrook.edu-blue?style=flat-square&logo=gmail"></a>
+<img alt="Email" src="https://img.shields.io/badge/Email-ratanak.rin30@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!---
